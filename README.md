@@ -3,6 +3,8 @@
 Sou Thiago Rocha Duarte, possuo sólidos conhecimentos em Java, IDEs específicas, Git, GitHub e metodologias ágeis, além de experiência com bancos de dados SQL. Me destaco por minha capacidade de trabalhar em equipe, comunicar conceitos técnicos de forma clara e solucionar problemas de maneira eficiente. Estou sempre buscando aprimorar minhas habilidades e contribuir para o desenvolvimento de soluções inovadoras na área de tecnologia.
 ##
 - 🔭 Estou em busca de oportunidades que me permitam aplicar e expandir meu conhecimento técnico
+- 👨🏽‍🎓 Atualmente cursando Pós-Graduação em Desenvolvimento de Aplicações Web. - FACULDADE
+FACUMINAS
 - 👨🏽‍🎓 Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul) - Brasília-DF
 - 👨🏽‍🎓 Estudando Spring Framework
 ##
